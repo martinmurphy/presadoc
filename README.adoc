@@ -5,7 +5,7 @@
 [source, shell]
 ----
 git clone https://github.com/martinmurphy/presadoc.git
-cd pres
+cd presadoc
 npm install
 npm run build
 npm run serve
