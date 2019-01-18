@@ -1,0 +1,14 @@
+= Presentation using asciidoc
+
+== Usage
+
+[source, shell]
+----
+git clone https://github.com/martinmurphy/presadoc.git
+cd pres
+npm install
+npm run build
+npm run serve
+----
+
+Point your browser at `http://localhost:8080/slides.html`

@@ -1,0 +1,40 @@
+= Slides test
+:revealjsdir: ./node_modules/reveal.js/
+:revealjs_slideNumber: true
+:source-highlighter: highlightjs
+:revealjs_center: false
+
+== Slide 1
+
+[%step]
+* This is the first point
+* This is the second point
+* This is the third point
+* This is the fourth point
+* This is the fifth point
+
+== Slide Two
+
+* li 1
+* li 2
+* li3
+
+=== Sub-Slide
+
+[%step]
+* sub 1
+* sub 2
+[source, javascript]
+----
+console.log('hello world');
+----
+* sun 3
+
+== Slide three
+
+The quick brown fox jumped over the lazy dogs.
+
+== Last Slide
+
+Thanks
+
